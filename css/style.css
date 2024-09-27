@@ -156,3 +156,9 @@ img {
     }
  }
 
+ @media screen and (min-width: 768px){
+    .steps, .lessons, .why-us{
+        display: flex;
+
+    }   
+ }
